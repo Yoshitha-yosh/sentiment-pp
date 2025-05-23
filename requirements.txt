@@ -1,6 +1,8 @@
 streamlit
+numpy
 pandas
 scikit-learn
-nltk
-joblib
+keras
 tensorflow
+joblib
+requests
